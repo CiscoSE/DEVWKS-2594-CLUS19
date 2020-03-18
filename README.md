@@ -35,7 +35,7 @@ the content in each directory.
 
 ## Versions
 
-- Ansible : 2.8.1
+- Ansible : 2.8.8 (originally tested with 2.8.1, bumped version in requirements for security remediation)
 
 - Python : 3.6.8
 
